@@ -2,4 +2,4 @@ I am Yamada Tro
 
 I am Yamada Hanako
 
-I am Yamada Sanro 2
+I am Yamada Sanro 22
